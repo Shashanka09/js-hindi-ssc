@@ -22,6 +22,15 @@ switch (month) {
     case "april":
         console.log("april");
         break;
+    case "may":
+        console.log("may");
+        break;
+    case "june":
+        console.log("june");
+        //copy down -> alt + shift + down arrow
+        //duplicate cursor -> ctrl + d
+        //command -> ctrl + /
+        break;
 
     default:
         console.log("default case match");
